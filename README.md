@@ -12,3 +12,4 @@
 首发在微信公众号（扫下面的二维码关注），不定期转到这个仓库来。
 
 
+![image](https://github.com/shadyxu/bigdata-essence/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
